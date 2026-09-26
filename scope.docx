@@ -1,0 +1,20 @@
+This system analyzes job postings for Data Analyst roles in India to 
+identify current skill demand and personalized skill-gap recommendations for entry-level candidates.
+
+
+## Limitations (Version 1)
+
+- Scope: Data Analyst roles in India only, based on a single Naukri.com 
+  dataset snapshot (not collected across multiple time periods).
+- Skill extraction uses simple keyword matching, not fuzzy/semantic matching — 
+  it can miss skill mentions phrased differently than the exact keyword list 
+  (e.g., "predictive modeling" won't be caught as "Machine Learning").
+- Generic terms like "Data Analysis" and "Analytics" may be over-counted, 
+  since they can match broadly within longer skill phrases.
+- No trend-over-time analysis yet — this dataset is a single time-window 
+  snapshot, not spread across months/years, so "rising/falling" skill trends 
+  are not yet possible (planned for Version 3, pending a suitable 
+  historical dataset).
+- Sample size: 1,085 postings — solid for skill frequency and gap analysis, 
+  but not large enough to support fine-grained sub-role analysis 
+  (e.g., "Data Analyst" vs "Senior Data Analyst" separately).
