@@ -1,0 +1,155 @@
+Skill_A,Skill_B,Co_occurrence_Count
+Analytics,Data Analysis,208
+Data Analysis,SQL,164
+Data Analysis,Excel,92
+Analytics,SQL,83
+Data Analysis,Machine Learning,81
+Python,SQL,72
+Data Analysis,Data Management,69
+Data Analysis,Python,68
+Data Analysis,Power BI,60
+Analytics,Machine Learning,59
+Data Analysis,Data Visualization,56
+Analytics,Python,49
+Data Analysis,Data Modeling,49
+Data Analysis,Tableau,47
+Power BI,SQL,45
+Data Analysis,Reporting,43
+Machine Learning,SQL,38
+SQL,Tableau,37
+Analytics,Excel,36
+Data Analysis,SAS,36
+Data Management,SQL,34
+Analytics,Data Management,34
+Excel,SQL,34
+Analytics,Data Visualization,33
+Machine Learning,Python,32
+Data Visualization,SQL,25
+Analytics,Power BI,24
+Analytics,Reporting,24
+Analytics,Data Modeling,24
+Data Visualization,Power BI,24
+Power BI,Tableau,24
+Data Analysis,Data Cleaning,22
+Analytics,Tableau,21
+Data Analysis,Statistics,20
+Python,Tableau,19
+Data Modeling,SQL,19
+Data Analysis,Data Warehousing,18
+Power BI,Python,18
+Excel,Tableau,18
+Excel,Power BI,18
+Analytics,SAS,17
+Data Visualization,Machine Learning,16
+Excel,Reporting,15
+Data Management,Data Modeling,15
+Data Management,Excel,15
+Data Warehousing,SQL,15
+Data Modeling,Machine Learning,13
+Data Visualization,Tableau,13
+Data Analysis,R programming,13
+Excel,Python,12
+Reporting,SQL,12
+Data Visualization,Reporting,12
+Data Visualization,Excel,11
+Power BI,Reporting,11
+Analytics,Data Warehousing,11
+SAS,SQL,11
+Data Modeling,Tableau,9
+Data Management,Power BI,9
+Machine Learning,Tableau,9
+Analytics,R programming,8
+Data Modeling,Data Visualization,8
+R programming,SQL,8
+Data Visualization,Python,8
+Data Warehousing,ETL,7
+Data Warehousing,Power BI,7
+Data Management,SAS,7
+Data Modeling,Data Warehousing,7
+Data Management,Reporting,7
+Reporting,Tableau,6
+Data Management,Machine Learning,6
+Data Modeling,Power BI,6
+Data Modeling,Python,6
+SQL,Statistics,6
+Data Management,Data Visualization,6
+Analytics,Statistics,6
+Python,Statistics,6
+Data Analysis,ETL,6
+Data Modeling,R programming,5
+Data Modeling,SAS,5
+Python,SAS,5
+Data Management,Data Warehousing,5
+SQL,VBA,5
+Data Management,Python,5
+Machine Learning,Statistics,5
+Machine Learning,Power BI,5
+Data Visualization,Data Warehousing,4
+Data Management,R programming,4
+ETL,Python,4
+Data Cleaning,Excel,4
+Python,R programming,4
+Data Warehousing,Tableau,4
+Excel,VBA,4
+Data Modeling,Excel,4
+Data Analysis,VBA,4
+Data Warehousing,Python,4
+Analytics,ETL,4
+Power BI,SAS,3
+Data Management,Tableau,3
+ETL,Power BI,3
+Data Cleaning,SQL,3
+Python,Reporting,3
+Dashboard,Data Analysis,3
+SAS,Tableau,3
+ETL,SQL,3
+R programming,SAS,3
+Dashboard,SQL,3
+Machine Learning,SAS,3
+Data Management,Statistics,3
+R programming,Statistics,3
+Machine Learning,R programming,3
+Data Cleaning,Data Visualization,3
+SAS,Statistics,2
+Data Cleaning,Data Management,2
+Data Cleaning,Statistics,2
+Dashboard,Data Visualization,2
+Power BI,VBA,2
+Data Cleaning,Reporting,2
+Analytics,Data Cleaning,2
+Data Cleaning,Power BI,2
+Dashboard,Tableau,2
+Dashboard,Power BI,2
+Data Warehousing,SAS,2
+Data Modeling,Reporting,2
+Excel,R programming,2
+Data Cleaning,Machine Learning,2
+Data Modeling,ETL,2
+Excel,Machine Learning,2
+Excel,SAS,2
+Data Cleaning,ETL,2
+Data Warehousing,Reporting,1
+Dashboard,Data Modeling,1
+Reporting,SAS,1
+Data Modeling,VBA,1
+Data Visualization,SAS,1
+Analytics,VBA,1
+Analytics,Dashboard,1
+Data Visualization,R programming,1
+Tableau,VBA,1
+ETL,Tableau,1
+Data Warehousing,Excel,1
+Excel,Statistics,1
+Python,VBA,1
+Data Management,ETL,1
+Power BI,Statistics,1
+Dashboard,Data Warehousing,1
+Data Cleaning,Data Modeling,1
+Statistics,Tableau,1
+Data Warehousing,Machine Learning,1
+Data Modeling,Statistics,1
+ETL,Reporting,1
+Data Cleaning,SAS,1
+R programming,Tableau,1
+Dashboard,ETL,1
+Data Visualization,ETL,1
